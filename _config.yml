@@ -17,7 +17,7 @@ title: murder house
 email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   A website for a book I probably wont finish
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: patdryburgh
